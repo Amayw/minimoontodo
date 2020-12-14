@@ -1,7 +1,7 @@
 <!--pages/home/home.wxml-->
 <text>pages/home/home.wxml</text>
 <m-button text="按钮" size="mini" colorType="change"></m-button>
-<m-confirm></m-confirm>
+<m-confirm placeholder="真的吗" visible="true" value="15"></m-confirm>
 <view>
-  <m-clock></m-clock>
+  <m-clock text="你好呀" fontSize="20"></m-clock>
 </view>
