@@ -1,0 +1,4 @@
+<!--components/button/button.wxml-->
+<button class="moon-button {{size==='mini'?'mini':''}} {{colorType==='change'?'change':''}}">
+   {{text}}
+</button>

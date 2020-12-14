@@ -1,0 +1,7 @@
+<!--pages/home/home.wxml-->
+<text>pages/home/home.wxml</text>
+<m-button text="按钮" size="mini" colorType="change"></m-button>
+<m-confirm></m-confirm>
+<view>
+  <m-clock></m-clock>
+</view>

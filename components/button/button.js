@@ -1,0 +1,16 @@
+Component({
+  properties:{
+    text:{
+      type:String,
+      value:""
+    },
+    size:{
+      type:String,
+      value:""
+    },
+    colorType:{
+      type:String,
+      value:""
+    }
+  }
+})
